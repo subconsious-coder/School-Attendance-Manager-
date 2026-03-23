@@ -34,7 +34,7 @@ gcc attendance.c
 
 ##  Demo
 
-Screen recording submitted separately.
+Screenshots submitted separately.
 
 ##  Author
 
