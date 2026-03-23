@@ -22,7 +22,7 @@ This is a terminal-based Student Attendance Management System written in C using
 
 ### Compile:
 
-gcc program.c -o attendance
+gcc attendance.c
 
 ### Run:
 
